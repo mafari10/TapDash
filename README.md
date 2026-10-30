@@ -30,3 +30,4 @@ Open `index.html` through a local web server (recommended), rather than directly
 
 The JavaScript has been moved without changing its game logic. It remains minified because the source was a bundled production-style script; this is intentionally a structural split, not a risky rewrite. The next safe step is a staged refactor: first format and name the existing code, then extract modules one feature at a time with gameplay tests after each change.
 # TapDash
+# TapDash
